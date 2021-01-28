@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FriendsZone</string>
+
+    <string name="textView">
+        <br>Hi!\n</br>
+        <br>My name is Nipa Chy.\n</br>
+        <br>This is my app.\n</br>
+        <br>I completed my graduation from International Islamic University,ctg\n</br>
+        <br>Contact for any Query : 01858547063\n</br>
+        <br>Email : nipachowdhury81@gmail.com\n</br>
+
+    </string>
+</resources>
